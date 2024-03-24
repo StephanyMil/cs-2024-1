@@ -12,7 +12,7 @@ Já a categoria REST, ou Representation State Transfer, apresenta alguns critér
 
 ### API REST
 
-Então, uma API REST é uma API que atende aos padrões propostos pelo estilo de arquitetura ou princípios de design do REST.
+Então, uma API REST é uma API que atende aos padrões propostos pelo estilo de arquitetura ou princípios de design do REST. Ela pode ser desenvolvida em qualquer linguagem de programação, contato que siga as restrições de arquitetura.
 
 ## Características:
 
