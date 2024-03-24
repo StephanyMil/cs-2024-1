@@ -17,8 +17,11 @@ Então, uma API REST é uma API que atende aos padrões propostos pelo estilo de
 ## Características:
 
 Uma das características da Rest API é a arquitetura cliente-servidor, que indica uma arquitetura baseada em cliente, servidores e recursos, em que as solicitações são feitas via protocolo HTTP.
+
 Outra característica é que uma API REST deve ser desenvolvida de modo que consiga armazenar dados em cache, tornando as solicitações e respostas entre clientes e servidores otimizadas.
+
 Outrossim, ela estabelece uma comunicação stateless entre cliente e servidor, ou seja, a comunicação entre eles não deve armazenar nenhuma informação entre as solicitações. Ademais, as chamadas e respostas passam por diferentes camadas, sendo que cada camada deve possuir uma funcionalidade específica.
+
 Por último, a interface deve ser uniforme, pois os aplicativos cliente e servidor devem ser completamentes independentes um do outro, e a interface uniforme oferece uma comunicação padronizada entre o usuário e o software, premitindo essa independência.
 
 ## Referências
