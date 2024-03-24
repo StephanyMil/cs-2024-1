@@ -27,5 +27,7 @@ Por último, a interface deve ser uniforme, pois os aplicativos cliente e servid
 ## Referências
 
 https://www.hostinger.com.br/tutoriais/api-restful
+
 https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
+
 https://www.ibm.com/br-pt/topics/rest-apis
